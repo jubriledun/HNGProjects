@@ -7,4 +7,6 @@
 ### Install Dependencies
 ![image](https://github.com/user-attachments/assets/cbf52763-ad8f-41b9-9ab4-0535409c0436) <br> <br>
 
+### Create Flask application 
+![image](https://github.com/user-attachments/assets/a6bee32f-bec8-40c7-afcb-e6a75ab220e7) <br> <br>
 
