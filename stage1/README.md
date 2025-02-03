@@ -1,4 +1,6 @@
 # Stage 1 task Implementation
+### Task Description: DevOps Stage 1 - Number Classification API
+Create an API that takes a number and returns interesting mathematical properties about it, along with a fun fact. <br> <br>
 
 ## Steps: 
 ### Setup EC2 on AWS to host API
