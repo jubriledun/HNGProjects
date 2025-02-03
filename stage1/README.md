@@ -17,3 +17,5 @@
 ![image](https://github.com/user-attachments/assets/c1e33fff-7c7d-40d2-84a2-71be7854c68b) <br> <br>
 
 ### Run the Flask application
+![image](https://github.com/user-attachments/assets/dfffc828-7e10-4db3-8d15-b42e4fec48e3) <br> <br>
+
