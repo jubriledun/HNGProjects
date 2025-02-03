@@ -26,6 +26,10 @@
 ![image](https://github.com/user-attachments/assets/c6d7f2be-f99c-473f-b026-6829ba1d8c82) <br> <br>
 ![image](https://github.com/user-attachments/assets/4612ad8b-ef53-4e0f-b7ea-a801919b5de2) <br> <br>
 
+### Test error 
+![image](https://github.com/user-attachments/assets/50375e46-0ff7-4232-9a11-f2ddf7ad36f3) <br> <br>
+
+
 
 
 
