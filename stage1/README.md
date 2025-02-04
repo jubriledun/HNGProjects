@@ -38,6 +38,7 @@ Create an API that takes a number and returns interesting mathematical propertie
 
 ### Install Uptime Kuma
 ![image](https://github.com/user-attachments/assets/fb493adf-c17c-4a56-92ae-7a56ca66ba07) <br> <br>
+![image](https://github.com/user-attachments/assets/870e11c4-89a5-4707-b10d-cff6cfd0322d) <br> <br>
 
 
 
