@@ -51,6 +51,10 @@ allow port 3001 on the EC2 inbound rule <br>
 ![image](https://github.com/user-attachments/assets/a29e6343-9c11-4d5f-9c22-6c9ed62a2d86) <br> <br>
 
 
+### Number API endpoints successfully being monitored
+![image](https://github.com/user-attachments/assets/2f50a7ed-467d-4d20-ada6-bd9a38ff91fb) <br> <br>
+
+
 
 
 
