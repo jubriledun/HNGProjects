@@ -47,6 +47,10 @@ allow port 3001 on the EC2 inbound rule <br>
 ### Confirm Uptime Kuma is running
 ![image](https://github.com/user-attachments/assets/2aaa5f13-afda-40b8-9fb7-c6af2c95eea7) <br> <br>
 
+### Add Number API endpoints to be monitored by Uptime Kuma
+![image](https://github.com/user-attachments/assets/a29e6343-9c11-4d5f-9c22-6c9ed62a2d86) <br> <br>
+
+
 
 
 
