@@ -31,6 +31,12 @@ Create an API that takes a number and returns interesting mathematical propertie
 ### Test error 
 ![image](https://github.com/user-attachments/assets/50375e46-0ff7-4232-9a11-f2ddf7ad36f3) <br> <br>
 
+## Monitoring
+
+### Setup EC2 for Uptime Kuma server
+![image](https://github.com/user-attachments/assets/c4b80f91-d1e1-4f43-bbc2-c2e78f373b2c) <br> <br>
+
+
 
 
 
