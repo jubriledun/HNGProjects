@@ -44,6 +44,10 @@ Create an API that takes a number and returns interesting mathematical propertie
 allow port 3001 on the EC2 inbound rule <br>
 ![image](https://github.com/user-attachments/assets/0b54261c-792b-479c-abd9-33eefc21b82e) <br> <br> 
 
+### Confirm Uptime Kuma is running
+![image](https://github.com/user-attachments/assets/2aaa5f13-afda-40b8-9fb7-c6af2c95eea7) <br> <br>
+
+
 
 
 
