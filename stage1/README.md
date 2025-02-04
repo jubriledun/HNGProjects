@@ -41,6 +41,9 @@ Create an API that takes a number and returns interesting mathematical propertie
 ![image](https://github.com/user-attachments/assets/870e11c4-89a5-4707-b10d-cff6cfd0322d) <br> <br>
 ![image](https://github.com/user-attachments/assets/635e95e6-6990-469d-ac3f-a2318cdb8b76) <br> <br>
 ![image](https://github.com/user-attachments/assets/53bac675-aff8-4175-9956-3907833ca09e) <br> <br>
+allow port 3001 on the EC2 inbound rule <br>
+![image](https://github.com/user-attachments/assets/0b54261c-792b-479c-abd9-33eefc21b82e) <br> <br> 
+
 
 
 
