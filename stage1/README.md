@@ -36,6 +36,10 @@ Create an API that takes a number and returns interesting mathematical propertie
 ### Setup EC2 for Uptime Kuma server
 ![image](https://github.com/user-attachments/assets/c4b80f91-d1e1-4f43-bbc2-c2e78f373b2c) <br> <br>
 
+### Install Uptime Kuma
+![image](https://github.com/user-attachments/assets/fb493adf-c17c-4a56-92ae-7a56ca66ba07) <br> <br>
+
+
 
 
 
