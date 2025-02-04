@@ -1,5 +1,5 @@
-# Task: DevOps Stage 1 - Number Classification API
-Create an API that takes a number and returns interesting mathematical properties about it, along with a fun fact. <br> <br>
+# Task: Number Classification API
+Create an API that takes a number and returns interesting mathematical properties about it, along with a fun fact. <br>
 Monitoring was also setup for the API endpoints using Uptime Kuma <br> <br>
 
 ## Steps: 
