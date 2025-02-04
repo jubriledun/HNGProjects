@@ -58,6 +58,12 @@ Create an API that takes a number and returns interesting mathematical propertie
 ![image](https://github.com/user-attachments/assets/1f84b2df-5e5d-4462-a4bb-88d6a685253b) <br> <br>
 
 ### Take down the API server and confirm monitoring status
+![image](https://github.com/user-attachments/assets/8c9041d9-3077-4bcb-8616-65e404a54645) <br> <br>
+![image](https://github.com/user-attachments/assets/c0eda91d-e01d-401d-ac23-bf21651bc37c) <br> <br>
+
+### C'est fini
+
+
 
 
 
