@@ -49,11 +49,11 @@ Monitoring was also setup for the API endpoints using Uptime Kuma <br> <br>
 ### Confirm Uptime Kuma is running
 ![image](https://github.com/user-attachments/assets/2aaa5f13-afda-40b8-9fb7-c6af2c95eea7) <br> <br>
 
-### Add Number API endpoints to be monitored by Uptime Kuma
+### Add Number Classification API endpoints to be monitored by Uptime Kuma
 ![image](https://github.com/user-attachments/assets/a29e6343-9c11-4d5f-9c22-6c9ed62a2d86) <br> <br>
 
 
-### Number API endpoints successfully being monitored
+### Number Classification API endpoints successfully being monitored
 ![image](https://github.com/user-attachments/assets/2f50a7ed-467d-4d20-ada6-bd9a38ff91fb) <br> <br>
 ![image](https://github.com/user-attachments/assets/ef9cf9f7-ba25-4efb-9886-fe5376589fe5) <br> <br>
 ![image](https://github.com/user-attachments/assets/1f84b2df-5e5d-4462-a4bb-88d6a685253b) <br> <br>
