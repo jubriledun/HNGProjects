@@ -11,6 +11,7 @@ Tasks to Complete:
  The endpoint should return a JSON response containing the book details.
  If the book does not exist, return a 404 Not Found response.
  Do not delete any books from the database.
+
 2.⁠ ⁠Set Up the CI Pipeline
  The CI pipeline should only run pytest to execute the existing tests.
  The workflow should be triggered on pull requests to the main branch.
@@ -18,15 +19,18 @@ Tasks to Complete:
  Contain a job named exactly test.
  Fail if there are issues in the application.
  Succeed if the application passes all tests.
+
 3.⁠ ⁠Set Up the Deployment Pipeline
  On merging a pull request to the main branch, a workflow should trigger a job named exactly deploy.
  If the deploy job runs successfully, your site should automatically be updated with the latest changes.
+
 4.⁠ ⁠Dockerization Requirement:
  Create a Dockerfile that builds and packages the FastAPI application.
  The Dockerfile should:
  Use an official lightweight Python image as the base.
  Install necessary dependencies for FastAPI.
  Expose the required port and set the appropriate FastAPI entry point.
+
 5.⁠ ⁠Serve the Application Over Nginx
  Your deployed application should be served using Nginx as a reverse proxy.
  Ensure proper configuration so that API requests are correctly handled by the FastAPI backend.
