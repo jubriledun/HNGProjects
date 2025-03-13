@@ -8,6 +8,13 @@ https://github.com/jubriledun/jubril-edun-fastapi-book-project
 
 ### Solution
 
-### Step 1
-I used Github Actions workflow for the C1/CD pipeline.
+### Step 1 - CI/CD with GitHub Actions
+Created ci.yml for the Continuous Integration pipeline <br>
 ![image](https://github.com/user-attachments/assets/875da4b8-94cd-49fc-b7be-354488b7cb4e) <br> <br>
+
+Created deploy.yml for the Continuous Development pipeline <br>
+![image](https://github.com/user-attachments/assets/45a47815-31cc-44fc-b6d3-a65b2d1e8c01) <br> <br>
+![image](https://github.com/user-attachments/assets/4af6a99a-7133-48bb-8ca0-c6286b116dad) <br> <br>
+
+
+
