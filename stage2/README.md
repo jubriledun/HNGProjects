@@ -5,3 +5,9 @@ You are to deploy a FastAPI application with a Continuous Integration (CI) and C
 
 ### Link to Solution
 https://github.com/jubriledun/jubril-edun-fastapi-book-project
+
+### Solution
+
+### Step 1
+I used Github Actions workflow for the C1/CD pipeline.
+![image](https://github.com/user-attachments/assets/875da4b8-94cd-49fc-b7be-354488b7cb4e) <br> <br>
